@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tanaum
 - 👀 I’m interested in mathematics and computer science :)
-- 🌱 I’m currently learning website development
+- 🌱 I’m currently learning backend development
 - ⚡ Fun fact: My name means "prosperity" :>
 
 <!---
