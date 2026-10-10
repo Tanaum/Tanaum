@@ -1,4 +1,4 @@
-# Hey, I'm Tanaum 👋
+# Hey, I'm Tanaum 🎀
 
 **Software Engineering student at FAST NUCES Lahore · Aspiring Backend Developer**
 
@@ -12,10 +12,10 @@ Currently learning, building, and occasionally wondering why something worked fi
 
 ### What I'm up to
 
-* 🐍 Building with Python and Flask
-* 🔌 Working with REST APIs and databases
-* 🌱 Exploring FastAPI and PostgreSQL
-* 🛠️ Turning ideas into projects, one bug at a time
+* Building with Python and Flask
+* Working with REST APIs and databases
+* Exploring FastAPI and PostgreSQL
+* Turning ideas into projects, one bug at a time
 
 ### Tech I work with
 
@@ -33,11 +33,11 @@ Currently learning, building, and occasionally wondering why something worked fi
 
 ### Projects
 
-📓 **[Journal API](https://github.com/Tanaum/confessions-backend)**
+**[Journal API](https://github.com/Tanaum/confessions-backend)**
 
 A Flask and SQLite backend project featuring account management and API functionality.
 
-📦 **[Stock Inventory Management API](https://github.com/Tanaum/Stock-Inventory-Management-API)**
+**[Stock Inventory Management API](https://github.com/Tanaum/Stock-Inventory-Management-API)**
 
 A Flask REST API built with MongoDB Atlas and PyMongo for inventory tracking, including stock updates, restocking, and low-stock checks. Tested with Postman.
 
@@ -45,10 +45,10 @@ A Flask REST API built with MongoDB Atlas and PyMongo for inventory tracking, in
 
 ### A little more about me
 
-* 🎓 Software Engineering undergraduate
-* 💻 Interested in backend engineering and practical problem-solving
-* 🏁 Hackathon participant
-* 🧠 Firm believer that the best way to learn is to build something — and then figure out why it broke
+* Software Engineering undergraduate
+* Interested in backend engineering and practical problem-solving
+* Hackathon participant
+* Firm believer that the best way to learn is to build something — and then figure out why it broke
 
 ---
 
